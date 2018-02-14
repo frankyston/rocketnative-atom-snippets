@@ -9,6 +9,7 @@
     - [ESLint](#eslint)
     - [Redux](#redux)
     - [Reactotron](#reactotron)
+    - [Babel](#babel)
     - [Apisauce](#apisauce)
 
 ![Demo](https://raw.githubusercontent.com/frankyston/rocketnative-atom-snippets/master/demo.gif)
